@@ -10,7 +10,7 @@ void displayMenu(){
     printf("6. sortuj\n");
     printf("7. wyznaczenie mediany\n");
     printf("8.zapisywanie tablicy\n");
-
+    printf("9.odczyt tablicy z pliku");
     printf("0. koniec\n\n");
     printf("twoj wybror to: ");
 }

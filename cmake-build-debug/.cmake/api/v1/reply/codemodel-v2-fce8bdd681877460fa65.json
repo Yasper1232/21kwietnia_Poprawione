@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/PC-R5-3600/CLionProjects/zajecia21kw/cmake-build-debug",
-		"source" : "C:/Users/PC-R5-3600/CLionProjects/zajecia21kw"
+		"build" : "C:/Users/student/Desktop/Dawid/2024-04-13/21kwietnia_Poprawione/cmake-build-debug",
+		"source" : "C:/Users/student/Desktop/Dawid/2024-04-13/21kwietnia_Poprawione"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

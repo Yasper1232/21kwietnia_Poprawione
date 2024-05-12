@@ -1,0 +1,3 @@
+C:\Users\student\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\zajecia21kw.dir/objects.a
+C:\Users\student\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\zajecia21kw.dir/objects.a @CMakeFiles\zajecia21kw.dir\objects1.rsp
+C:\Users\student\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\zajecia21kw.dir/objects.a -Wl,--no-whole-archive -o zajecia21kw.exe -Wl,--out-implib,libzajecia21kw.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zajecia21kw.dir\linkLibs.rsp
